@@ -1,8 +1,8 @@
 <p align="center">
-	<img width="200" alt="Sahabat Gula logo" src="assets/sahabat-gula.png">
+	<img width="200" alt="Sahabat Gula logo" src="../assets/sahabat-gula.png">
 </p>
 <p align="center">
-    Deteksi dan Tracking Gula Makanan
+    <strong>Deteksi dan Tracking Gula Makanan</strong>
 </p>
 
 ## Introduction
