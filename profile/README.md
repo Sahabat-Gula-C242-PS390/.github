@@ -2,7 +2,7 @@
 	<img width="200" alt="Sahabat Gula logo" src="../assets/sahabat-gula.png">
 </p>
 <p align="center">
-    <strong>Deteksi dan Tracking Gula Makanan</strong>
+    <em><strong>Deteksi dan Tracking Gula Makanan</strong></em>
 </p>
 
 ## Introduction
